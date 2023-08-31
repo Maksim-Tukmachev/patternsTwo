@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/ykr8cmpd7dbj9pmy?svg=true)](https://ci.appveyor.com/project/Maksim-Tukmachev/patternstwo)
